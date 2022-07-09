@@ -1,1 +1,1 @@
-Go to main Directorires upload all Documentation and Project Exe File Here .
+Go to Master Directorires upload all Documentation and Project Exe File Here .
